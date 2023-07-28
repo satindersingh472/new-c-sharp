@@ -1,0 +1,15 @@
+/home/satinder/Desktop/study/asp.net/new-c-sharp/bin/Debug/net6.0/new-c-sharp
+/home/satinder/Desktop/study/asp.net/new-c-sharp/bin/Debug/net6.0/new-c-sharp.deps.json
+/home/satinder/Desktop/study/asp.net/new-c-sharp/bin/Debug/net6.0/new-c-sharp.runtimeconfig.json
+/home/satinder/Desktop/study/asp.net/new-c-sharp/bin/Debug/net6.0/new-c-sharp.dll
+/home/satinder/Desktop/study/asp.net/new-c-sharp/bin/Debug/net6.0/new-c-sharp.pdb
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.csproj.AssemblyReference.cache
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.AssemblyInfoInputs.cache
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.AssemblyInfo.cs
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.csproj.CoreCompileInputs.cache
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.dll
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/refint/new-c-sharp.dll
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.pdb
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/new-c-sharp.genruntimeconfig.cache
+/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/Debug/net6.0/ref/new-c-sharp.dll

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/satinder/Desktop/study/asp.net/new-c-sharp/new-c-sharp.csproj": {}
+  },
+  "projects": {
+    "/home/satinder/Desktop/study/asp.net/new-c-sharp/new-c-sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/satinder/Desktop/study/asp.net/new-c-sharp/new-c-sharp.csproj",
+        "projectName": "new-c-sharp",
+        "projectPath": "/home/satinder/Desktop/study/asp.net/new-c-sharp/new-c-sharp.csproj",
+        "packagesPath": "/home/satinder/.nuget/packages/",
+        "outputPath": "/home/satinder/Desktop/study/asp.net/new-c-sharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/satinder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/satinder/.dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
